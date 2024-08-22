@@ -8,6 +8,9 @@ tailwind.config = {
             fontFamily:{
                 'manrope': "Manrope"
 
+            },
+             backgroundImage: {
+                'bgImg': "url('/img/bg.jpg')"
             }
         },
     },

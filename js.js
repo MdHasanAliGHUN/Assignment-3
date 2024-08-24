@@ -10,7 +10,7 @@ tailwind.config = {
 
             },
              backgroundImage: {
-                'bgImg': "url('/img/bg.jpg')"
+                'bgImg': "url('./img/bg.jpg')"
             }
         },
     },
